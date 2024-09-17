@@ -70,7 +70,7 @@ Compound interest, that is. If you want to play around with the calculator, feel
 
 Remember that we think that 20% savings is conservative? Let's be a more aggressive in our savings and save 50% of our income, meaning that we add roughly 1200 euros every month.
 
-![alt text](image.png)
+![alt text](scenario3.png)
 
 You earn almost 500k€ in interest! In the period of 20 years. Imagine the beach where you would be when you started to save when you were a little child :-) 
 This return is just a bit rosy, as inflation kicks in. These 500k€ are worth a lot less in 20 years that what they are today - but, even so, an 8% average return will definitely surpass inflation. We'll dive into these topics a bit more during Week 2 of our learning pod.
