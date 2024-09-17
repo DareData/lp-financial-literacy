@@ -29,24 +29,54 @@ Key Components of a Budget:
 **Expenses:*** Money going out (rent, groceries, utilities, entertainment).
 **Savings:** Money you’re setting aside for future needs (emergencies, investments, big purchases).
 
-2. The 50/30/20 Rule for Budgeting
+## 2. The 50/30/20 Rule for Budgeting
+
 One of the most popular and effective methods for budgeting is the 50/30/20 rule. It provides a simple structure to manage your money:
 
 50% for Needs: Rent, utilities, groceries, transportation—essential expenses.
 30% for Wants: Dining out, entertainment, vacations—non-essential spending.
 20% for Savings & Debt Repayment: Emergency fund, investments, paying off credit cards or loans.
-This method works because it balances living your life now (wants) with securing your future (savings). Harvard professor and U.S. senator Elizabeth Warren popularized this rule in her book "All Your Worth: The Ultimate Lifetime Money Plan." Warren argues that financial stability is about balance—spending wisely on needs while enjoying some wants and building security through savings.
+This method works because it balances living your life now (wants) with securing your future (savings).
 
-3. Types of Savings
+Most budgets fit within some % levels as the ones we see above. But, if you want to get more aggressive and retire early, you can up the % of savings to 50 or 60%. Coupled with investment, this may mean that you no longer depend on your professional life to live. In this context, retirement doesn't necessarily mean *do nothing* - it means the freedom to choose what you want to do, even if it's nothing.
+
+## 3. Types of Savings
+
 Saving money isn’t just about putting it in a jar. There are different types of savings to consider, each with a specific purpose.
 
-Emergency Fund: An emergency fund is your financial safety net. Experts suggest having at least 3-6 months’ worth of living expenses saved up in case of job loss, medical issues, or major unexpected costs. Personal finance YouTuber Graham Stephan emphasizes that your emergency fund should be liquid—easily accessible, like in a high-yield savings account (Graham Stephan, "Why You Need an Emergency Fund", YouTube).
+Emergency Fund: An emergency fund is your financial safety net. Experts suggest having at least 6 to 12 months of expenses set on the side, in case an emergency arrives. 
 
-Short-Term Savings: These are savings for goals within the next 1-3 years, such as a vacation, a car, or even holiday shopping. For short-term goals, high-yield savings accounts or money market accounts are great options as they offer a modest return with minimal risk.
+Short-Term Savings: These are savings for goals within the next 1-3 years, such as a vacation, a car, some new gadget, whatever.
 
-Long-Term Savings: These are for future financial goals like retirement, buying a house, or your child’s education. You can use a Roth IRA, 401(k), or other investment accounts for these goals, and the power of compound interest will help your savings grow over time. The earlier you start saving for long-term goals, the more you can benefit from compounding, as outlined by Einstein, who called compound interest "the eighth wonder of the world."
+Long-Term Savings: These are for future financial goals like retirement, buying a house, or your child’s education. Your savings will also also eaten by inflation, so you should find some nice places where to earn a good return. Amount of money saved + return will define the timeline for your retirement, and the earlier you start saving for long-term goals, the more you can benefit from compounding.
 
-4. Tools for Effective Budgeting
+For example, Let's imagine that you earn 50.000 yearly and decide that ~20% of that money should go to savings:
+
+- You start with 10.000€
+- add 500€ every month to your investment account
+- decide that you are conservative and use a savings account (*depósito a prazo*) that earns 1%.
+
+![alt text](scenario1.png)
+
+In the end, you will earn about 15.000€ of interest in the period of 20 years. That doesn't seem very exciting..
+
+But, what if we invest in a vehicle that yields 8% interest on average? 
+
+![alt text](scenario2.png)
+
+We earn near 213k€ in interest over 20 years! How can that be? 
+
+Compound interest, that is. If you want to play around with the calculator, feel free to do it [here].(https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php)
+
+Remember that we think that 20% savings is conservative? Let's be a more aggressive in our savings and save 50% of our income, meaning that we add roughly 1200 euros every month.
+
+![alt text](image.png)
+
+You earn almost 500k€ in interest! In the period of 20 years. Imagine the beach where you would be when you started to save when you were a little child :-) 
+This return is just a bit rosy, as inflation kicks in. These 500k€ are worth a lot less in 20 years that what they are today - but, even so, an 8% average return will definitely surpass inflation. We'll dive into these topics a bit more during Week 2 of our learning pod.
+
+
+## 4. Tools for Effective Budgeting
 Managing your budget can be a breeze with modern financial tools. Here are some of the best options:
 
 Mint: A free app that tracks all your accounts and spending in one place. It categorizes your expenses automatically and helps you stay on budget.
