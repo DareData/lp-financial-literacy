@@ -79,38 +79,28 @@ This return is just a bit rosy, as inflation kicks in. These 500k€ are worth a
 ## 4. Tools for Effective Budgeting
 Managing your budget can be a breeze with modern financial tools. Here are some of the best options:
 
-Mint: A free app that tracks all your accounts and spending in one place. It categorizes your expenses automatically and helps you stay on budget.
-You Need a Budget (YNAB): This is a paid app that takes budgeting to the next level by assigning every dollar a specific job. It's perfect if you want to be more intentional with your money. According to YNAB, their average user saves over $6,000 in the first year.
-Excel: If you like more control, building your own budget spreadsheet in Excel allows for flexibility and customization.
-These tools help you stay on track and visualize your finances, making budgeting less of a chore and more of a habit.
+- Mint: A free app that tracks all your accounts and spending in one place. It categorizes your expenses automatically and helps you stay on budget.
+- You Need a Budget (YNAB): This is a paid app that takes budgeting to the next level by assigning every dollar a specific job. It's perfect if you want to be more intentional with your money. According to YNAB, their average user saves over $6,000 in the first year.
+- Excel: If you like more control, building your own budget spreadsheet in Excel allows for flexibility and customization.
 
-5. How to Stick to Your Budget
+
+## 5. How to Stick to Your Budget
 Creating a budget is one thing, but sticking to it is a whole different challenge. Here are some tips to make sure you don’t fall off track:
 
-Automate Your Savings: Set up an automatic transfer to your savings account each month. This makes saving easier, as you’ll pay yourself first before you’re tempted to spend.
-Track Every Dollar: Keeping a close eye on your spending helps you stay disciplined. Apps like Mint or YNAB automatically categorize your purchases so you can see exactly where your money is going.
-Review Monthly: Budgets aren’t static. Life changes, and so will your financial situation. Each month, take a look at your budget and adjust as needed.
-Accountability Partner: Share your budgeting goals with a trusted friend or family member. They can help you stay accountable and provide support if you’re feeling tempted to overspend.
-Tiffany Aliche, known as "The Budgetnista," offers this simple advice: “Budgeting doesn’t limit your freedom; it gives you freedom.” When you budget, you’re in control of your money, not the other way around.
+- Automate Your Savings: Set up an automatic transfer to your savings or investment account each month. This makes saving easier, as you’ll pay yourself first before you’re tempted to spend.
+- Track Every Dollar: Keeping a close eye on your spending helps you stay disciplined. Apps that enable you to log expenses into categories on-the-go are a good way to start.
+- Review Monthly: Budgets aren’t static. Life changes, and so will your financial situation. Every quarter, take a look at your budget and adjust as needed.
 
-6. The Importance of Saving
-Saving isn’t just about planning for the future—it’s about peace of mind today. By saving regularly, you can avoid the panic that comes with unexpected expenses or emergencies.
 
-Key Benefits of Saving:
+Some nice resources to wrap up this section: 
+- [Budgetting for Beginners](https://www.youtube.com/watch?v=_JBxP_oz2kQ)
+- [Your Money or Your Life](https://www.youtube.com/watch?v=rVL5yr45OmI)
 
-Financial Security: Knowing you have money set aside gives you confidence to handle emergencies.
-Freedom to Pursue Goals: Want to start a business? Travel the world? Early retirement? Saving gives you the freedom to pursue these life goals.
-Reduces Stress: When you're not constantly worried about money, you can focus on enjoying life, spending time with loved ones, and pursuing your passions.
-Conclusion: Take Control of Your Money
-Budgeting and saving are essential habits for financial success. By creating a budget, sticking to it, and setting aside money for future goals, you’ll be on your way to a more secure and enjoyable life.
+Budgeting and saving may require effort at first, but the rewards—financial freedom, peace of mind, and the ability to achieve your dreams—are well worth it. It's all about building an habit!
 
-To wrap up, watch this engaging YouTube video by The Financial Diet, titled “How to Create a Simple Budget That Works”, for more budgeting inspiration and tips. Also, consider reading "Your Money or Your Life" by Vicki Robin, which explores how budgeting can transform your relationship with money.
+## Assignment 1
 
-Budgeting and saving may require effort at first, but the rewards—financial freedom, peace of mind, and the ability to achieve your dreams—are well worth it.
+For this first assignment, you will create your budget, or adjust your existing one. At the end of the assignment, you should have: 
+- A budget created for your year, with %'s allocated to each category. To start easily, we suggest the following categories: Housing, Utilities, Groceries, Eating Out, Fun, Medical, Clothing, Others
+- Choose an app where you will track your expenses and log your data every day. 
 
-References
-Warren, E. & Tyagi, A.W. (2005). All Your Worth: The Ultimate Lifetime Money Plan. Free Press.
-Ramsey, D. (2017). The Total Money Makeover. Thomas Nelson.
-Stephan, G. (2020). Why You Need an Emergency Fund. YouTube Video.
-CareerBuilder. (2017). Living Paycheck to Paycheck Statistics.
-The Financial Diet. (2020). How to Create a Simple Budget That Works. YouTube Video.
