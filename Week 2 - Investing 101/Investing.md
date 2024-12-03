@@ -83,7 +83,7 @@ But, inflation can eat away most of your long-term investment returns. Let's con
 
 We would have near 225.000$ at the end of a 40 year period. But this is just a virtual return. Why? If we account for inflation, the 225.000$ can only buy 58.000$ worth of goods and services 40 years later (considering 3.5% average inflation rate). So your real return actually looks like the following:
 
-![alt text](chart-1.jpeg)
+![alt text](chart.png)
 
 Inflation is a silent money killer and few assets have proven to be able to beat inflation on the long run (stocks, some bonds and gold (barely)). So next time you see that 2% interest rate on a "depósito a prazo"? Remember that inflation will kill that in the long run.
 
