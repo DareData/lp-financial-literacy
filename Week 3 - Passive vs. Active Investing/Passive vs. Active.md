@@ -28,6 +28,8 @@ Riskier: Success depends on market timing and decision-making, which can be extr
 Example: Building your own Stock Portfolio
 Some people actively do the research on which stocks to buy. They aim to outpace the market and have an average higher return, based on the knowledge that they have on the stocks they buy.
 
+["Do less, Make more" - In Praise of the Dead](https://finance.yahoo.com/news/archives-praise-dead-investors-060000235.html)
+
 ## 3. Basics on what a Stock Price Means
 
 Which company has higher value?
