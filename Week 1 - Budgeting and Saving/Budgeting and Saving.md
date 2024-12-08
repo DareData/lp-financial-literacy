@@ -25,9 +25,9 @@ A solid budget prevents overspending,  encourages savings and avoids guilt.
 
 Key Components of a Budget:
 
-**Income:** Your total earnings (salary, freelance, side hustle, dividends, etc.).
-**Expenses:*** Money going out (rent, groceries, utilities, entertainment).
-**Savings:** Money you’re setting aside for future needs (emergencies, investments, big purchases).
+* **Income:** Your total earnings (salary, freelance, side hustle, dividends, etc.).
+* **Expenses:*** Money going out (rent, groceries, utilities, entertainment, taxes for self-employees).
+* **Savings:** Money you’re setting aside for future needs (emergencies, investments, big purchases).
 
 ## 2. The 50/30/20 Rule for Budgeting
 
