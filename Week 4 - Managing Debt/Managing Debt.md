@@ -63,8 +63,7 @@ For context, here are the interest rates applied in Portugal (Euribor, European 
 
 It high
 
-
-
+[UNDER CONSTRUCTION FROM THIS POINT ONWARD]
 
 2. Variable (Adjustable) Interest Rate Mortgage
 A variable-rate mortgage (also called an adjustable-rate mortgage or ARM) has an interest rate that fluctuates based on market conditions, typically tied to a benchmark like the LIBOR or SOFR.
