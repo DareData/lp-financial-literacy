@@ -1,5 +1,10 @@
 # lp-financial-literacy
 
-DareData learning pod for topics on Financial Literacy. 
+DareData learning pod for topics on Financial Literacy. Currently, we have 4 sections: 
+- Budgeting and Saving
+- Investing 101
+- Passive vs. Active Investing
+- Managing Debt
 
-Currently building. This readme will be updated soon-ish (in less than 2 years, at least).
+
+Looking to add more sections soon!
