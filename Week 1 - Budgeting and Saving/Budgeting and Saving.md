@@ -80,7 +80,7 @@ This return is just a bit rosy, as inflation kicks in. These 500k€ are worth a
 
 Managing your budget can be a breeze with modern financial tools. Here are some of the best options:
 
-- Mint: A free app that tracks all your accounts and spending in one place. It categorizes your expenses automatically and helps you stay on budget.
+- Cashew: A free (and open source) app that tracks all your accounts and spending in one place. It categorizes your expenses automatically and helps you stay on budget.
 - You Need a Budget (YNAB): This is a paid app that takes budgeting to the next level by assigning every dollar a specific job. It's perfect if you want to be more intentional with your money. According to YNAB, their average user saves over $6,000 in the first year.
 - Excel: If you like more control, building your own budget spreadsheet in Excel allows for flexibility and customization.
 
