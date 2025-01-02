@@ -7,7 +7,7 @@ Investing isn’t about luck or risk; it’s about strategy, knowledge, and pati
 ### 1. Why Invest?
 While budgeting and saving lay a solid foundation, investing is what accelerates wealth-building. Investing grows your money through the power of compound returns (see week 1). Instead of your money sitting idle in a savings account, it works for you by generating returns. 
 
-The key to successful investing is **time in the market**, not **timing the market**. We'll discuss this in more debt on Passive vs. Active investing week.  
+The key to successful investing is **time in the market**, not **timing the market**. We'll discuss this in more depth on Passive vs. Active investing week.  
 
 ### 2. Common Investment Types
 Investing involves putting your money into different assets, that can make your money grow. Let’s break down the most common types:
