@@ -55,7 +55,7 @@ Ideal For:
 
 Example:
 If your fixed rate is 4% on a 30-year mortgage, you’ll pay the same interest rate and monthly payment regardless of how market rates fluctuate.
-When you 
+When you
 
 For context, here are the interest rates applied in Portugal (Euribor, European Rate) in the past 20 years: 
 
