@@ -99,9 +99,9 @@ Choose a simple portfolio allocation: Don't get too fancy. Choose a simple portf
 ### 6. Tools for Investing
 Many apps simplify investing for beginners, such as:
 
-Degiro or InteractiveBrokers: These apps allow you to buy stocks, ETFs, and cryptocurrencies easily, with no minimum investment.
-Your Bank: Banks normally have brokerage services. But keep in mind that their pricing is normally higher than other e-platforms or online banks.
-Revolut: Revolut enables you to trade stocks inside their app (and even fractional shares).
+- Degiro or InteractiveBrokers: These apps allow you to buy stocks, ETFs, and cryptocurrencies easily, with no minimum investment.
+- Your Bank: Banks normally have brokerage services. But keep in mind that their pricing is normally higher than other e-platforms or online banks.
+- Revolut: Revolut enables you to trade stocks inside their app (and even fractional shares).
 
 ## Assignment 2
 For this week’s assignment, we’ll start small by buying your first investments. At the end of the assignment, you should:
