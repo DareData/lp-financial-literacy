@@ -48,7 +48,7 @@ Emergency Fund: An emergency fund is your financial safety net. Experts suggest 
 
 Short-Term Savings: These are savings for goals within the next 1-3 years, such as a vacation, a car, some new gadget, whatever.
 
-Long-Term Savings: These are for future financial goals like retirement, buying a house, or your child’s education. Your savings will also also eaten by inflation, so you should find some nice places where to earn a good return. Amount of money saved + return will define the timeline for your retirement, and the earlier you start saving for long-term goals, the more you can benefit from compounding.
+Long-Term Savings: These are for future financial goals like retirement, buying a house, or your child’s education. Your savings will also be eaten by inflation, so you should find some nice places where to earn a good return. Amount of money saved + return will define the timeline for your retirement, and the earlier you start saving for long-term goals, the more you can benefit from compounding.
 
 For example, Let's imagine that you earn 50.000 yearly and decide that ~20% of that money should go to savings:
 
