@@ -65,7 +65,7 @@ Want to try out some custom portfolios for you? Check out https://www.portfoliov
 
 The important thing about allocation is:
 - The higher your timeline to get your money back, the more invested in stocks you should be. If your time horizon is greater than 20 years, stocks are a good place to allocate your money.
-- If you feel that you can't stomach a -40% loss in a given year, don't be too get overweight in stock. If you sell during this period, most of your future return will be thrown out the window.
+- If you feel that you can't stomach a -40% loss in a given year, don't be too overweight in stock. If you sell during this period, most of your future return will be thrown out the window.
 - Inflation will eat away your profits, independently of the allocation.
 
 and speaking of inflation...
