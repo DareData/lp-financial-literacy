@@ -104,6 +104,9 @@ Many apps simplify investing for beginners, such as:
 - Revolut: Revolut enables you to trade stocks inside their app (and even fractional shares).
 
 ## Assignment 2
+
+**Important note: If you are in serious debt (>40% of your income) or don't have an emergency fund of at least 6 months of expenses, you shouldn't proceed to Assignment 2. You should only return after being able to pay down your debt (to levels below 15% of Debt-to-Income ratio) and build your emergency fund** 
+
 For this week’s assignment, we’ll start small by buying your first investments. At the end of the assignment, you should:
 
 - Create a investment portfolio: Include a mix of assets (e.g., stocks, bonds, gold, etc.) with approximate percentages. This portfolio should be based on your risk tolerance.
