@@ -38,6 +38,13 @@ Usually people will have the help of accountants to calculate the capital gains 
 *   **Quantity:** The quantity of the asset you are buying or selling.
 *   **Trade Expenses:** The commission charged by the broker.
 
+And an example of this would be:
+
+| Stock | Date of Transaction | Operation | Price | Quantity | Trade Expenses |
+|-------|---------------------|-----------|-------|----------|----------------|
+| Apple | 2024-01-01          | Buy       | 150   | 1        | 2              |
+| Apple | 2024-01-02          | Buy       | 155   | 1        | 1              |
+| Apple | 2024-01-03          | Sell      | 160   | 1        | 1              |
 
 This table is your raw data, but for declaring your capital gains, we will need to calculate the difference between the price you paid and the price you sold. To correctly assign the asset you are selling to the asset you bought, **we will have to follow the FIFO (First In, First Out) method**. This means that the first asset you bought is the first asset you will sell, otherwise you could always keep the oldest.
 
@@ -49,6 +56,13 @@ To have this final "Capital Gains" table, we will join some of the rows from the
 *   **Price of Sale:** The price you sold all the assets for.
 *   **Market Location (País da Fonte):**  This is the country of the Stock Exchange where the share is listed. Even if it is Apple, you might be buying it in the Amsterdam Stock Exchange, so the country would be "Netherlands".
 *   **Trade Expenses:** The total commissions you had to pay to buy **and** sell the asset. For this I sometimes have to do a weighted average.
+
+And an example of this would be:
+
+| Date of Purchase | Date of Sale | Price of Purchase | Price of Sale | Market Location (País da Fonte) | Trade Expenses |
+|------------------|--------------|------------------|---------------|--------------------------------|----------------|
+| 2024-01-01       | 2024-01-03   | 150              | 160           | Netherlands                    | 3              |
+
 
 ## 4. How to keep track of dividends?
 
