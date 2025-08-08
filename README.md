@@ -1,15 +1,16 @@
 # Learning Pod Financial Literacy
 
-DareData learning pod for topics on Financial Literacy. Currently, we have 4 sections: 
+DareData learning pod for topics on Financial Literacy. Currently, we have 5 sections: 
 - Budgeting and Saving
 - Investing 101
 - Passive vs. Active Investing
 - Managing Debt
+- Taxes
 ________________________
 
 # How it works:
 
-Students are to be divided into groups of 3. These groups should try to progress through the learning process together so that their questions and discussion are on the same wavelength. Each group will be assigned a mentor and will perform code reviews together.
+Students are to be divided into groups of 3 to 5. These groups should try to progress through the learning process together so that their questions and discussion are on the same wavelength. Each group will be assigned a mentor and will perform code reviews together.
 
 Mentors: A mentor is a more experienced collaborator and/or someone who has already gone through the course. They are in charge of helping their group, answering questions and preventing them from being stuck, as well as keeping track of their progress.
 
